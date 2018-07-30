@@ -34,13 +34,13 @@ class Detention
     @activity = activity
   end
   
-  # def activity
-  #   @activity
-  # end
+  def activity
+    @activity
+  end
   
-  # def students
-  #   @students
-  # end 
+  def students
+    @students
+  end 
   
   # def add_student(name)
   #   @students << name
