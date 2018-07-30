@@ -42,12 +42,12 @@ class Detention
     @students
   end 
   
-  # def add_student(name)
-  #   @students << name
-  # end 
+  def add_student(name)
+    @students << name
+  end 
   
-  # def remove_student(name)
-  #   @students.delete(name) 
-  # end 
+  def remove_student(name)
+    @students.delete(name) 
+  end 
   
 end 
