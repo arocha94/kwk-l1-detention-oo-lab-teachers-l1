@@ -34,9 +34,9 @@ class Detention
     @activity = activity
   end
   
-  def activity
-    @activity
-  end
+  # def activity
+  #   @activity
+  # end
   
   # def students
   #   @students
